@@ -6,7 +6,7 @@ import Navbar from './components/Navbar'
 function App() {
 
   return (
-    <div className="bg-slate-200 w-screen h-screen ">
+    <div className="bg-slate-200 w-screen h-screen overflow-x-hidden ">
       <Navbar/>
       <Pages />
     </div>

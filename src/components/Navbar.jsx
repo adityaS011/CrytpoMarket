@@ -18,11 +18,12 @@ const Navbar = () => {
         <button className="bg-gradient-to-r from-blue-500 to-blue-800 text-white text-lg font-[600] px-4 py-2 rounded-lg mr-4 ">
           Get Started
         </button>
+        </div>
         <div className="lg:hidden">
           {/* Mobile menu button/icon can be added here */}
         </div>
       </div>
-    </div>
+    
     </>
   );
 };
