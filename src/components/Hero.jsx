@@ -8,9 +8,7 @@ const Hero = () => {
     <span class="mx-1 ">&gt;&gt;</span>
     <span class="font-[500] text-black-800">Bitcoin</span>
     </div>
-    <div>
-      
-    </div>
+    <div className=''> </div>
     </>
   )
 }

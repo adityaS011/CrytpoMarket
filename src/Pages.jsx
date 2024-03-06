@@ -9,7 +9,7 @@ const Pages = () => {
         <Hero />
         {/* Add other components here for the left side */}
       </div>
-      <div className=" w-[420px] h-12 fixed right-0 mr-8 mt-8"> {/* 30% width */}
+      <div className=" w-[420px] h-12 right-0 mr-8 mt-8"> {/* 30% width */}
         <Sidebar /> {/* Right side fixed sidebar with width 30% */}
         
       </div>
